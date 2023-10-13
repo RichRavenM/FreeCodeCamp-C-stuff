@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\bin\Debug\net7.0\ArrayProject.exe
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\bin\Debug\net7.0\ArrayProject.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\bin\Debug\net7.0\ArrayProject.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\bin\Debug\net7.0\ArrayProject.dll
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\bin\Debug\net7.0\ArrayProject.pdb
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ArrayProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ArrayProject.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ArrayProject.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ArrayProject.dll
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\refint\ArrayProject.dll
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ArrayProject.pdb
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ArrayProject.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\ArrayProject\obj\Debug\net7.0\ref\ArrayProject.dll
