@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\bin\Debug\net7.0\ConventionsProject.exe
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\bin\Debug\net7.0\ConventionsProject.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\bin\Debug\net7.0\ConventionsProject.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\bin\Debug\net7.0\ConventionsProject.dll
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\bin\Debug\net7.0\ConventionsProject.pdb
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ConventionsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ConventionsProject.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ConventionsProject.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ConventionsProject.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ConventionsProject.dll
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\refint\ConventionsProject.dll
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ConventionsProject.pdb
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ConventionsProject.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\ConventionsProject\obj\Debug\net7.0\ref\ConventionsProject.dll
