@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\bin\Debug\net7.0\LogicProject2.exe
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\bin\Debug\net7.0\LogicProject2.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\bin\Debug\net7.0\LogicProject2.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\bin\Debug\net7.0\LogicProject2.dll
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\bin\Debug\net7.0\LogicProject2.pdb
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\LogicProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\LogicProject2.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\LogicProject2.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\LogicProject2.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\LogicProject2.dll
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\refint\LogicProject2.dll
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\LogicProject2.pdb
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\LogicProject2.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject2\obj\Debug\net7.0\ref\LogicProject2.dll
