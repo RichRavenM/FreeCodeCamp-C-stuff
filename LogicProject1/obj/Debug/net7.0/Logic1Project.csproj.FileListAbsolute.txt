@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\bin\Debug\net7.0\Logic1Project.exe
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\bin\Debug\net7.0\Logic1Project.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\bin\Debug\net7.0\Logic1Project.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\bin\Debug\net7.0\Logic1Project.dll
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\bin\Debug\net7.0\Logic1Project.pdb
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\Logic1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\Logic1Project.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\Logic1Project.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\Logic1Project.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\Logic1Project.dll
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\refint\Logic1Project.dll
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\Logic1Project.pdb
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\Logic1Project.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\LogicProject1\obj\Debug\net7.0\ref\Logic1Project.dll
