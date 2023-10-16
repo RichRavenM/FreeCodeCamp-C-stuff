@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\bin\Debug\net7.0\MethodProject1.exe
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\bin\Debug\net7.0\MethodProject1.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\bin\Debug\net7.0\MethodProject1.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\bin\Debug\net7.0\MethodProject1.dll
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\bin\Debug\net7.0\MethodProject1.pdb
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\MethodProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\MethodProject1.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\MethodProject1.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\MethodProject1.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\MethodProject1.dll
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\refint\MethodProject1.dll
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\MethodProject1.pdb
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\MethodProject1.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\MethodProject1\obj\Debug\net7.0\ref\MethodProject1.dll
