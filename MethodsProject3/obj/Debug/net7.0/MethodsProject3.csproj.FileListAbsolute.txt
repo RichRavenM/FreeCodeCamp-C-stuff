@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\MethodsProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\MethodsProject3.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\MethodsProject3.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\MethodsProject3.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\bin\Debug\net7.0\MethodsProject3.exe
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\bin\Debug\net7.0\MethodsProject3.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\bin\Debug\net7.0\MethodsProject3.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\bin\Debug\net7.0\MethodsProject3.dll
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\bin\Debug\net7.0\MethodsProject3.pdb
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\MethodsProject3.dll
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\refint\MethodsProject3.dll
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\MethodsProject3.pdb
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\MethodsProject3.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\MethodsProject3\obj\Debug\net7.0\ref\MethodsProject3.dll
