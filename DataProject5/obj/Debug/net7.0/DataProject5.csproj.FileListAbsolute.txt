@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\DataProject5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\DataProject5.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\DataProject5.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\DataProject5.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\bin\Debug\net7.0\DataProject5.exe
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\bin\Debug\net7.0\DataProject5.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\bin\Debug\net7.0\DataProject5.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\bin\Debug\net7.0\DataProject5.dll
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\bin\Debug\net7.0\DataProject5.pdb
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\DataProject5.dll
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\refint\DataProject5.dll
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\DataProject5.pdb
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\DataProject5.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\DataProject5\obj\Debug\net7.0\ref\DataProject5.dll
