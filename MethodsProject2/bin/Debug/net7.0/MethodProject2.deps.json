@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MethodProject2/1.0.0": {
+        "runtime": {
+          "MethodProject2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodProject2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
