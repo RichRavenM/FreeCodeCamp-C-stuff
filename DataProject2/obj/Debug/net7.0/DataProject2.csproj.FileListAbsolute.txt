@@ -1,0 +1,14 @@
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\DataProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\DataProject2.AssemblyInfoInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\DataProject2.AssemblyInfo.cs
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\DataProject2.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\bin\Debug\net7.0\DataProject2.exe
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\bin\Debug\net7.0\DataProject2.deps.json
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\bin\Debug\net7.0\DataProject2.runtimeconfig.json
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\bin\Debug\net7.0\DataProject2.dll
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\bin\Debug\net7.0\DataProject2.pdb
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\DataProject2.dll
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\refint\DataProject2.dll
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\DataProject2.pdb
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\DataProject2.genruntimeconfig.cache
+C:\Users\richa\coding\c#\CsharpProjects\DataProject2\obj\Debug\net7.0\ref\DataProject2.dll
