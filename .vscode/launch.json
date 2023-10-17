@@ -5,13 +5,24 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch (console)",
+            "name": "Debug101",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "buildDebug101",
             "program": "${workspaceFolder}/Debug101/bin/Debug/net7.0/Debug101.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Debug101",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Exceptions101",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildExceptions101",
+            "program": "${workspaceFolder}/Exceptions101/bin/Debug/net7.0/Exceptions101.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Exceptions101",
             "stopAtEntry": false,
             "console": "integratedTerminal"
         }
