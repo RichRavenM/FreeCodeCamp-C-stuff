@@ -25,7 +25,19 @@
             "cwd": "${workspaceFolder}/Exceptions101",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "ThrowExceptions101",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildThrowExceptions101",
+            "program": "${workspaceFolder}/ThrowExceptions101/bin/Debug/net7.0/ThrowExceptions101.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ThrowExceptions101",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
+
 
     ]
 }
