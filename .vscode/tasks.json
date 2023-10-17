@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		
+		{
+			"label": "buildDebug101",
+			"command": "dotnet",
+			"type": "process",
+			"args": [
+				"build",
+				"${workspaceFolder}/Debug101/Debug101.csproj",
+				"/property:GenerateFullPaths=true",
+				"/consoleloggerparameters:NoSummary"
+			],
+			"problemMatcher": "$msCompile"
+		}
+	]
+}
