@@ -4,6 +4,7 @@ string? readResult;
 int startIndex = 0;
 bool goodEntry = false;
 
+//
 int[] numbers = { 1, 2, 3, 4, 5 };
 
 // Display the array to the console.
