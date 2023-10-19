@@ -36,6 +36,17 @@
             "cwd": "${workspaceFolder}/ThrowExceptions101",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "DotNetDebugging",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildDotNetDebugging",
+            "program": "${workspaceFolder}/DotNetDebugging/bin/Debug/net7.0/DotNetDebugging.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/DotNetDebugging",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
 
 

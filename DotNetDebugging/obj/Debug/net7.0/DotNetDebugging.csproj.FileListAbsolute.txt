@@ -1,0 +1,14 @@
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\richa\coding\csharp\CsharpProjects\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll
